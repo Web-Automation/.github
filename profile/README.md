@@ -16,12 +16,12 @@ Web Automation and Testing**.
 
 ## What We Build
 
-[![AI](https://img.shields.io/badge/AI-Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![FINTECH](https://img.shields.io/badge/FINTECH-Payments-2563EB?style=for-the-badge&logo=stripe&logoColor=white)](#)
 [![AUTOMATION](https://img.shields.io/badge/AUTOMATION-Workflows-059669?style=for-the-badge&logo=githubactions&logoColor=white)](#)
-[![PRODUCT](https://img.shields.io/badge/PRODUCT-Tools-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI-Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![TESTING](https://img.shields.io/badge/TESTING-Web%20%26%20Visual-EF4444?style=for-the-badge&logo=testinglibrary&logoColor=white)](#)
-[![DEVELOPER TOOLS](https://img.shields.io/badge/DEVELOPER-Tools-111827?style=for-the-badge&logo=github&logoColor=white)](#)
+[![FINTECH](https://img.shields.io/badge/FINTECH-Payments-2563EB?style=for-the-badge&logo=stripe&logoColor=white)](#)
+[![PRODUCT](https://img.shields.io/badge/PRODUCT-Tools-F59E0B?style=for-the-badge&logo=producthunt&logoColor=white)](#)
+[![DEVELOPER TOOLS](https://img.shields.io/badge/DEVELOPER-Tools-111827?style=for-the-badge)](#)
 
 ---
 
