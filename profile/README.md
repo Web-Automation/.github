@@ -94,19 +94,26 @@ performance analysis and visual regression.
 <table>
   <tr>
     <td valign="middle">
-      <img src="./images/anshuman.jpg" width="45" height="45" alt="Anshuman Jaiswal">
-    </td>
-    <td valign="middle">
       <strong>Anshuman Jaiswal</strong>
     </td>
     <td valign="middle">
       <a href="https://www.linkedin.com/in/theanshuman/" title="Anshuman Jaiswal on LinkedIn">
-        <img src="./images/linkedin.svg" width="22" height="22" alt="LinkedIn">
+        <img
+          src="./images/linkedin.svg"
+          width="22"
+          height="22"
+          alt="LinkedIn"
+        >
       </a>
     </td>
     <td valign="middle">
       <a href="https://github.com/ishujais" title="Anshuman Jaiswal on GitHub">
-        <img src="./images/github.svg" width="22" height="22" alt="GitHub">
+        <img
+          src="./images/github.svg"
+          width="22"
+          height="22"
+          alt="GitHub"
+        >
       </a>
     </td>
   </tr>
@@ -123,19 +130,26 @@ Product Analytics and Generative AI.
 <table>
   <tr>
     <td valign="middle">
-      <img src="./images/utkarsh.jpg" width="45" height="45" alt="Utkarsh Jaiswal">
-    </td>
-    <td valign="middle">
       <strong>Utkarsh Jaiswal</strong>
     </td>
     <td valign="middle">
       <a href="https://www.linkedin.com/in/theutkarshjaiswal/" title="Utkarsh Jaiswal on LinkedIn">
-        <img src="./images/linkedin.svg" width="22" height="22" alt="LinkedIn">
+        <img
+          src="./images/linkedin.svg"
+          width="22"
+          height="22"
+          alt="LinkedIn"
+        >
       </a>
     </td>
     <td valign="middle">
       <a href="https://github.com/theutkarshjaiswal" title="Utkarsh Jaiswal on GitHub">
-        <img src="./images/github.svg" width="22" height="22" alt="GitHub">
+        <img
+          src="./images/github.svg"
+          width="22"
+          height="22"
+          alt="GitHub"
+        >
       </a>
     </td>
   </tr>
@@ -148,7 +162,7 @@ and turning ideas into working products.
 
 ---
 
-## 🌱 Build. Automate. Experiment. Ship.
+## Build. Automate. Experiment. Ship.
 
 We build things because sometimes the best way to understand a problem
 is to **build the solution ourselves**.
