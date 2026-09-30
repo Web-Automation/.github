@@ -109,11 +109,4 @@ and turning ideas into working products.
 
 ---
 
-## Build. Automate. Experiment. Ship.
-
-We build things because sometimes the best way to understand a problem
-is to **build the solution ourselves**.
-
----
-
 ⭐ Explore our repositories and feel free to build on top of them.
