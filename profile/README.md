@@ -101,11 +101,16 @@ performance analysis and visual regression.
         alt="Anshuman Jaiswal"
       >
     </td>
+
     <td valign="middle">
       <strong>Anshuman Jaiswal</strong>
     </td>
+
     <td valign="middle">
-      <a href="https://www.linkedin.com/in/theanshuman/">
+      <a
+        href="https://www.linkedin.com/in/theanshuman/"
+        title="Anshuman Jaiswal on LinkedIn"
+      >
         <img
           src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg"
           width="22"
@@ -114,11 +119,12 @@ performance analysis and visual regression.
         >
       </a>
     </td>
+
     <td valign="middle">
-      |
-    </td>
-    <td valign="middle">
-      <a href="https://github.com/ishujais">
+      <a
+        href="https://github.com/ishujais"
+        title="Anshuman Jaiswal on GitHub"
+      >
         <img
           src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg"
           width="22"
@@ -148,11 +154,16 @@ Product Analytics and Generative AI.
         alt="Utkarsh Jaiswal"
       >
     </td>
+
     <td valign="middle">
       <strong>Utkarsh Jaiswal</strong>
     </td>
+
     <td valign="middle">
-      <a href="https://www.linkedin.com/in/theutkarshjaiswal/">
+      <a
+        href="https://www.linkedin.com/in/theutkarshjaiswal/"
+        title="Utkarsh Jaiswal on LinkedIn"
+      >
         <img
           src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg"
           width="22"
@@ -161,11 +172,12 @@ Product Analytics and Generative AI.
         >
       </a>
     </td>
+
     <td valign="middle">
-      |
-    </td>
-    <td valign="middle">
-      <a href="https://github.com/theutkarshjaiswal">
+      <a
+        href="https://github.com/theutkarshjaiswal"
+        title="Utkarsh Jaiswal on GitHub"
+      >
         <img
           src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg"
           width="22"
@@ -184,7 +196,7 @@ and turning ideas into working products.
 
 ---
 
-## 🌱 Build. Automate. Experiment. Ship.
+## Build. Automate. Experiment. Ship.
 
 We build things because sometimes the best way to understand a problem
 is to **build the solution ourselves**.
