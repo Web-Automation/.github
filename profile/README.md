@@ -91,7 +91,44 @@ performance analysis and visual regression.
 ---
 ## The People Behind It
 
-### <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/anshuman.jpg" width="45" height="45" alt="Anshuman Jaiswal" style="vertical-align:middle;"> Anshuman Jaiswal&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theanshuman/"><img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align:middle;"></a>&nbsp;<a href="https://github.com/ishujais"><img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg" width="22" height="22" alt="GitHub" style="vertical-align:middle;"></a>
+<table>
+  <tr>
+    <td valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/anshuman.jpg"
+        width="45"
+        height="45"
+        alt="Anshuman Jaiswal"
+      >
+    </td>
+    <td valign="middle">
+      <strong>Anshuman Jaiswal</strong>
+    </td>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/theanshuman/">
+        <img
+          src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg"
+          width="22"
+          height="22"
+          alt="LinkedIn"
+        >
+      </a>
+    </td>
+    <td valign="middle">
+      |
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/ishujais">
+        <img
+          src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg"
+          width="22"
+          height="22"
+          alt="GitHub"
+        >
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Product × Engineering × Systems**
 
@@ -101,7 +138,44 @@ Product Analytics and Generative AI.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/utkarsh.jpg" width="45" height="45" alt="Utkarsh Jaiswal" style="vertical-align:middle;"> Utkarsh Jaiswal&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theutkarshjaiswal/"><img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align:middle;"></a>&nbsp;<a href="https://github.com/theutkarshjaiswal"><img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg" width="22" height="22" alt="GitHub" style="vertical-align:middle;"></a>
+<table>
+  <tr>
+    <td valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/utkarsh.jpg"
+        width="45"
+        height="45"
+        alt="Utkarsh Jaiswal"
+      >
+    </td>
+    <td valign="middle">
+      <strong>Utkarsh Jaiswal</strong>
+    </td>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/theutkarshjaiswal/">
+        <img
+          src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg"
+          width="22"
+          height="22"
+          alt="LinkedIn"
+        >
+      </a>
+    </td>
+    <td valign="middle">
+      |
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/theutkarshjaiswal">
+        <img
+          src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg"
+          width="22"
+          height="22"
+          alt="GitHub"
+        >
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Software Engineering × Product Thinking**
 
