@@ -89,13 +89,9 @@ performance analysis and visual regression.
 | **Visual Automation Testing** | Automates visual regression testing |
 
 ---
-
 ## The People Behind It
 
-### <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/anshuman.jpg" width="45" height="45" alt="Anshuman Jaiswal"> Anshuman Jaiswal
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theanshuman/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ishujais)
+### <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/anshuman.jpg" width="45" height="45" alt="Anshuman Jaiswal" style="vertical-align:middle;"> Anshuman Jaiswal&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theanshuman/"><img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align:middle;"></a>&nbsp;<a href="https://github.com/ishujais"><img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg" width="22" height="22" alt="GitHub" style="vertical-align:middle;"></a>
 
 **Product × Engineering × Systems**
 
@@ -105,10 +101,7 @@ Product Analytics and Generative AI.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/utkarsh.jpg" width="45" height="45" alt="Utkarsh Jaiswal"> Utkarsh Jaiswal
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theutkarshjaiswal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theutkarshjaiswal)
+### <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/utkarsh.jpg" width="45" height="45" alt="Utkarsh Jaiswal" style="vertical-align:middle;"> Utkarsh Jaiswal&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theutkarshjaiswal/"><img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg" width="22" height="22" alt="LinkedIn" style="vertical-align:middle;"></a>&nbsp;<a href="https://github.com/theutkarshjaiswal"><img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg" width="22" height="22" alt="GitHub" style="vertical-align:middle;"></a>
 
 **Software Engineering × Product Thinking**
 
@@ -117,7 +110,7 @@ and turning ideas into working products.
 
 ---
 
-## Build. Automate. Experiment. Ship.
+## 🌱 Build. Automate. Experiment. Ship.
 
 We build things because sometimes the best way to understand a problem
 is to **build the solution ourselves**.
