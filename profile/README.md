@@ -68,8 +68,8 @@ performance analysis and visual regression.
 
 ![APIs](https://img.shields.io/badge/APIs-0F172A?style=flat-square&logo=postman&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-334155?style=flat-square&logo=kubernetes&logoColor=white)
-![Automation](https://img.shields.io/badge/RPA-412991?style=for-the-badge&logo=robotframework&logoColor=white&logoSize=auto)
-![System Design](https://img.shields.io/badge/System%20Design-FF6B35?style=for-the-badge&logo=diagramsdotnet&logoColor=white&logoSize=auto)
+![Automation](https://img.shields.io/badge/Automation-059669?style=flat-square&logo=githubactions&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-7C3AED?style=flat-square&logo=mermaid&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-9333EA?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
