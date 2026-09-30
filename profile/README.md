@@ -1,16 +1,20 @@
-# Hey there, we're Web-Automation
+# Welcome to Web-Automation Labs
 
-> **We turn ideas into practical software, automation, and intelligent products.**
+> **Product × Engineering × Automation × AI**
 
-Web-Automation is a product and engineering lab where **Product, Engineering,
-Automation and AI** come together to build useful software for real-world problems.
+We build practical software, intelligent systems and automation that solve
+real-world problems.
 
-We experiment, build, test and ship across **AI, FinTech, Payments, Developer
-Tools, Product Management and Web Automation**.
+Web-Automation Labs is a product and engineering lab where **Product,
+Engineering, Automation and AI** come together to experiment, build, test
+and ship useful products.
+
+Our work spans **AI, FinTech, Payments, Developer Tools, Product Management,
+Web Automation and Testing**.
 
 ---
 
-## What we build
+## What We Build
 
 [![AI](https://img.shields.io/badge/AI-Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![FINTECH](https://img.shields.io/badge/FINTECH-Payments-2563EB?style=for-the-badge&logo=stripe&logoColor=white)](#)
@@ -25,17 +29,18 @@ Tools, Product Management and Web Automation**.
 
 ### AI & Intelligent Workflows
 
-Building AI-powered tools, agents and workflows that solve practical problems.
+Building AI-powered tools, agents and workflows that solve practical
+problems and automate complex tasks.
 
 ### FinTech & Payments
 
-Exploring payment infrastructure, orchestration, routing, reliability and
-financial products.
+Building and exploring payment infrastructure, orchestration, intelligent
+routing, reliability and financial products.
 
 ### Product Management
 
-Building tools that help Product Managers think, plan, document and solve
-problems better.
+Creating tools that help Product Managers think, solve problems, plan,
+document and execute better.
 
 ### Web Automation
 
@@ -77,8 +82,9 @@ performance analysis and visual regression.
 | **Trading Agent** | Multi-agent pipeline for market analysis and signal generation |
 | **Hisaab** | Brings income, expenses, assets, liabilities and taxes into one financial view |
 | **PG Orchestrator** | Payment gateway orchestration platform for intelligent routing, health-based failover, load distribution, circuit breakers and resilient payment processing |
-| **Stub** | Minimal, account-free text sharing service — write text, get a short retrieval code, and optionally control updates/deletion with a separate code |
-| **PM DocStudio** | Create PRDs, roadmaps, sprint plans and Gantt charts |
+| **PM DocStudio** | Workspace for creating PRDs, roadmaps, sprint plans and Gantt charts |
+| **PM Problem Solving Prompt Builder** | Interactive environment for practicing Product Management problem-solving and interview cases |
+| **Stub** | Minimal, account-free text sharing service — write text, get a short retrieval code, and optionally control updates or deletion with a separate code |
 | **Website Testing Automation** | Automates website testing and broken URL detection |
 | **Visual Automation Testing** | Automates visual regression testing |
 
@@ -86,7 +92,8 @@ performance analysis and visual regression.
 
 ## The People Behind It
 
-### Anshuman Jaiswal
+### <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/anshuman.jpg" width="45" height="45" alt="Anshuman Jaiswal"> Anshuman Jaiswal
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theanshuman/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ishujais)
 
@@ -98,7 +105,8 @@ Product Analytics and Generative AI.
 
 ---
 
-### Utkarsh Jaiswal
+### <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/utkarsh.jpg" width="45" height="45" alt="Utkarsh Jaiswal"> Utkarsh Jaiswal
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theutkarshjaiswal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theutkarshjaiswal)
 
@@ -106,6 +114,13 @@ Product Analytics and Generative AI.
 
 Software developer focused on building practical, user-centric software
 and turning ideas into working products.
+
+---
+
+## Build. Automate. Experiment. Ship.
+
+We build things because sometimes the best way to understand a problem
+is to **build the solution ourselves**.
 
 ---
 
