@@ -94,19 +94,19 @@ performance analysis and visual regression.
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/anshuman.jpg" width="45" height="45" alt="Anshuman Jaiswal">
+      <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/anshuman.jpg" width="45" height="45">
     </td>
     <td valign="middle">
       <strong>Anshuman Jaiswal</strong>
     </td>
     <td valign="middle">
       <a href="https://www.linkedin.com/in/theanshuman/" title="Anshuman Jaiswal on LinkedIn">
-        <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg" width="22" height="22" alt="LinkedIn">
+        <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg" width="22" height="22">
       </a>
     </td>
     <td valign="middle">
       <a href="https://github.com/ishujais" title="Anshuman Jaiswal on GitHub">
-        <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg" width="22" height="22" alt="GitHub">
+        <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg" width="22" height="22">
       </a>
     </td>
   </tr>
@@ -123,19 +123,19 @@ Product Analytics and Generative AI.
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/utkarsh.jpg" width="45" height="45" alt="Utkarsh Jaiswal">
+      <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/utkarsh.jpg" width="45" height="45">
     </td>
     <td valign="middle">
       <strong>Utkarsh Jaiswal</strong>
     </td>
     <td valign="middle">
       <a href="https://www.linkedin.com/in/theutkarshjaiswal/" title="Utkarsh Jaiswal on LinkedIn">
-        <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg" width="22" height="22" alt="LinkedIn">
+        <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/linkedin.svg" width="22" height="22">
       </a>
     </td>
     <td valign="middle">
       <a href="https://github.com/theutkarshjaiswal" title="Utkarsh Jaiswal on GitHub">
-        <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg" width="22" height="22" alt="GitHub">
+        <img src="https://raw.githubusercontent.com/Web-Automation/.github/main/profile/images/github.svg" width="22" height="22">
       </a>
     </td>
   </tr>
