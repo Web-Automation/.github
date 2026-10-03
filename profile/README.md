@@ -98,13 +98,13 @@ performance analysis and visual regression.
         src="https://avatars.githubusercontent.com/u/64202360?s=120&v=4"
         width="40"
         height="40"
-        style="border-radius: 50%;"
+        style="border-radius:50%;"
         alt="Anshuman Jaiswal"
       />
-    </td>
-    <td valign="middle">
+      &nbsp;&nbsp;
       <strong>Anshuman Jaiswal</strong>
     </td>
+
     <td valign="middle">
       <a href="https://www.linkedin.com/in/theanshuman/" title="Anshuman Jaiswal on LinkedIn">
         <img
@@ -115,6 +115,7 @@ performance analysis and visual regression.
         />
       </a>
     </td>
+
     <td valign="middle">
       <a href="https://github.com/ishujais" title="Anshuman Jaiswal on GitHub">
         <img
@@ -143,13 +144,13 @@ Product Analytics and Generative AI.
         src="https://avatars.githubusercontent.com/u/19240137?s=120&v=4"
         width="40"
         height="40"
-        style="border-radius: 50%;"
+        style="border-radius:50%;"
         alt="Utkarsh Jaiswal"
       />
-    </td>
-    <td valign="middle">
+      &nbsp;&nbsp;
       <strong>Utkarsh Jaiswal</strong>
     </td>
+
     <td valign="middle">
       <a href="https://www.linkedin.com/in/theutkarshjaiswal/" title="Utkarsh Jaiswal on LinkedIn">
         <img
@@ -160,6 +161,7 @@ Product Analytics and Generative AI.
         />
       </a>
     </td>
+
     <td valign="middle">
       <a href="https://github.com/theutkarshjaiswal" title="Utkarsh Jaiswal on GitHub">
         <img
