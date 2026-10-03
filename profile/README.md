@@ -93,23 +93,20 @@ performance analysis and visual regression.
 
 <table>
   <tr>
-    <td valign="middle" style="white-space: nowrap;">
+    <td valign="middle">
       <img
         src="https://avatars.githubusercontent.com/u/64202360?s=120&v=4"
         width="40"
         height="40"
+        style="border-radius: 50%;"
         alt="Anshuman Jaiswal"
-        style="border-radius:50%; vertical-align:middle;"
       />
-      &nbsp;&nbsp;
-      <strong style="vertical-align:middle;">Anshuman Jaiswal</strong>
     </td>
-
     <td valign="middle">
-      <a
-        href="https://www.linkedin.com/in/theanshuman/"
-        title="Anshuman Jaiswal on LinkedIn"
-      >
+      <strong>Anshuman Jaiswal</strong>
+    </td>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/theanshuman/" title="Anshuman Jaiswal on LinkedIn">
         <img
           src="./images/linkedin.svg"
           width="22"
@@ -118,12 +115,8 @@ performance analysis and visual regression.
         />
       </a>
     </td>
-
     <td valign="middle">
-      <a
-        href="https://github.com/ishujais"
-        title="Anshuman Jaiswal on GitHub"
-      >
+      <a href="https://github.com/ishujais" title="Anshuman Jaiswal on GitHub">
         <img
           src="./images/github.svg"
           width="22"
@@ -137,29 +130,28 @@ performance analysis and visual regression.
 
 **Product × Engineering × Systems**
 
-Technical Product Manager working at the intersection of Product, Engineering and Business, with a focus on FinTech, Payments, Distributed Systems, Product Analytics and Generative AI.
+Technical Product Manager working at the intersection of Product, Engineering
+and Business, with a focus on FinTech, Payments, Distributed Systems,
+Product Analytics and Generative AI.
 
 ---
 
 <table>
   <tr>
-    <td valign="middle" style="white-space: nowrap;">
+    <td valign="middle">
       <img
         src="https://avatars.githubusercontent.com/u/19240137?s=120&v=4"
         width="40"
         height="40"
+        style="border-radius: 50%;"
         alt="Utkarsh Jaiswal"
-        style="border-radius:50%; vertical-align:middle;"
       />
-      &nbsp;&nbsp;
-      <strong style="vertical-align:middle;">Utkarsh Jaiswal</strong>
     </td>
-
     <td valign="middle">
-      <a
-        href="https://www.linkedin.com/in/theutkarshjaiswal/"
-        title="Utkarsh Jaiswal on LinkedIn"
-      >
+      <strong>Utkarsh Jaiswal</strong>
+    </td>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/theutkarshjaiswal/" title="Utkarsh Jaiswal on LinkedIn">
         <img
           src="./images/linkedin.svg"
           width="22"
@@ -168,12 +160,8 @@ Technical Product Manager working at the intersection of Product, Engineering an
         />
       </a>
     </td>
-
     <td valign="middle">
-      <a
-        href="https://github.com/theutkarshjaiswal"
-        title="Utkarsh Jaiswal on GitHub"
-      >
+      <a href="https://github.com/theutkarshjaiswal" title="Utkarsh Jaiswal on GitHub">
         <img
           src="./images/github.svg"
           width="22"
@@ -187,7 +175,8 @@ Technical Product Manager working at the intersection of Product, Engineering an
 
 **Software Engineering × Product Thinking**
 
-Software developer focused on building practical, user-centric software and turning ideas into working products.
+Software developer focused on building practical, user-centric software
+and turning ideas into working products.
 
 ---
 
