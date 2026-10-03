@@ -94,6 +94,15 @@ performance analysis and visual regression.
 <table>
   <tr>
     <td valign="middle">
+      <img
+        src="https://avatars.githubusercontent.com/u/64202360?s=120&v=4"
+        width="40"
+        height="40"
+        style="border-radius: 50%;"
+        alt="Anshuman Jaiswal"
+      />
+    </td>
+    <td valign="middle">
       <strong>Anshuman Jaiswal</strong>
     </td>
     <td valign="middle">
@@ -103,7 +112,7 @@ performance analysis and visual regression.
           width="22"
           height="22"
           alt="LinkedIn"
-        >
+        />
       </a>
     </td>
     <td valign="middle">
@@ -113,7 +122,7 @@ performance analysis and visual regression.
           width="22"
           height="22"
           alt="GitHub"
-        >
+        />
       </a>
     </td>
   </tr>
@@ -130,6 +139,15 @@ Product Analytics and Generative AI.
 <table>
   <tr>
     <td valign="middle">
+      <img
+        src="https://avatars.githubusercontent.com/u/19240137?s=120&v=4"
+        width="40"
+        height="40"
+        style="border-radius: 50%;"
+        alt="Utkarsh Jaiswal"
+      />
+    </td>
+    <td valign="middle">
       <strong>Utkarsh Jaiswal</strong>
     </td>
     <td valign="middle">
@@ -139,7 +157,7 @@ Product Analytics and Generative AI.
           width="22"
           height="22"
           alt="LinkedIn"
-        >
+        />
       </a>
     </td>
     <td valign="middle">
@@ -149,7 +167,7 @@ Product Analytics and Generative AI.
           width="22"
           height="22"
           alt="GitHub"
-        >
+        />
       </a>
     </td>
   </tr>
